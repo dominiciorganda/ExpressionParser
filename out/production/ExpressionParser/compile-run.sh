@@ -1,0 +1,2 @@
+javac ExpressionParser.java
+java ExpressionParser
